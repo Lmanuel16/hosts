@@ -5,3 +5,9 @@
 0.0.0.0 ww5.cine-calidad.me
 0.0.0.0 www.locopelis.com
 0.0.0.0 cinecalidad.ms
+0.0.0.0 www4.cuevana3.ch
+0.0.0.0 cuevana3pro.com
+0.0.0.0 lookerstudio.google.com
+0.0.0.0 www.semana.com
+0.0.0.0 www.npmjs.com
+0.0.0.0 www.cuevana3.day
