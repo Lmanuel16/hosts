@@ -26,12 +26,9 @@
 0.0.0.0 gnula.nu
 0.0.0.0 pelisyseries.net
 0.0.0.0 dontorrent.in
-0.0.0.0 t.me
 0.0.0.0 dontorrent.casa
 0.0.0.0 dontorrent.blog
-0.0.0.0 dontorrent.blog
 0.0.0.0 DonTorrent.com
-0.0.0.0 www.internetizado.com
 0.0.0.0 www.internetizado.com
 0.0.0.0 www.adslzone.net
 0.0.0.0 www.adslzone.net
@@ -46,4 +43,14 @@
 0.0.0.0 torrentsdepeliculas.org
 0.0.0.0 yts.movie
 0.0.0.0 nginx.org
+0.0.0.0 somosmovies.com
+0.0.0.0 somosmovies.altervista.org
+0.0.0.0 somosmovies.com
 0.0.0.0 nginx.com
+0.0.0.0 www.pelisplay.co
+0.0.0.0 www.locopelis.com
+0.0.0.0 peliplay.com
+0.0.0.0 www.peliplay.cl 
+0.0.0.0 www.cine-tube.com
+0.0.0.0 apkcombo.com
+0.0.0.0 appparapc.com
