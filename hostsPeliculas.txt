@@ -1,1 +1,2 @@
 0.0.0.0 ww3.cuevana.pro
+0.0.0.0 cinecalidad.run/
