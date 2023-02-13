@@ -1,2 +1,7 @@
 0.0.0.0 ww3.cuevana.pro
-0.0.0.0 cinecalidad.run/
+0.0.0.0 cinecalidad.run
+0.0.0.0 cinecalidad.pl
+0.0.0.0 www3.cinecalidad3.io
+0.0.0.0 ww5.cine-calidad.me
+0.0.0.0 www.locopelis.com
+0.0.0.0 cinecalidad.ms
